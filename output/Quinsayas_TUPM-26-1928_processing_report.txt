@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name:Quinsayas
+Student ID:TUPM-26-1928
+Seed Digit:8
+ID Sum:28
+Verification Value:260
+Dataset Sample Size:78
+Valid Records:78
+Average Global Active Power:3.973
+JSON File:Quinsayas_TUPM-26-1928_record.json
+Backup File:Quinsayas_TUPM-26-1928_record.csv
